@@ -5,7 +5,7 @@
 		"basePath": "/studio"
 	},
 	"api": {
-		"projectId": "exug0mn7",
+		"projectId": "tv6dtgr4",
 		"dataset": "production"
 	},
 	"plugins": [
@@ -16,9 +16,7 @@
 	],
 	"env": {
 		"development": {
-			"plugins": [
-				"@sanity/vision"
-			]
+			"plugins": ["@sanity/vision"]
 		}
 	},
 	"parts": [

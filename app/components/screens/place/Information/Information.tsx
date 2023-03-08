@@ -20,7 +20,7 @@ const Information: FC<{ place: IPlace }> = ({ place }) => {
 			<div className={styles.additional}>
 				<div className={styles.rating}>
 					<FaStar color="#FDAE32" size={18} className={styles.star} />
-					<span>{place.rating}/10</span>
+					<span>{place.rating}/5</span>
 				</div>
 
 				<div className={styles.duration}>
